@@ -1,0 +1,5 @@
+print('+++'*12)
+dia = input('Dia: ')
+mes = input('Mês: ')
+Ano = input('Ano: ')
+print ('Você nasceu no dia ', dia, 'mês ', mes, 'e ano ', Ano)
